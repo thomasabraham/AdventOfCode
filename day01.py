@@ -1,5 +1,3 @@
-#!/usr/bin/python3
-
 from sys import stdin
 
 def solution_sum_two(input_array):
